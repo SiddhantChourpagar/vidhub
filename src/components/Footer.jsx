@@ -83,21 +83,21 @@ const Footer = () => {
         variant={'link'}
         colorScheme='whitealpha'
         >
-        <a target='blank' href='https://youtube.com/6packprogrammer'>Youtube</a>
+        <a target='blank' href='https://github.com/SiddhantChourpagar'>Github</a>
         </Button>
 
         <Button 
         variant={'link'}
         colorScheme='whitealpha'
         >
-        <a target='blank' href='https://instagram.com/6packprogrammer'>Instagram</a>
+        <a target='blank' href='https://www.linkedin.com/in/siddhantc901/'>LinkedIn</a>
         </Button>
 
         <Button 
         variant={'link'}
         colorScheme='whitealpha'
         >
-        <a target='blank' href='https://github.com/meabhisingh'>Github</a>
+        <a target='blank' href='https://twitter.com/csiddhant9x'>Twitter</a>
         </Button>
 
     </VStack>
